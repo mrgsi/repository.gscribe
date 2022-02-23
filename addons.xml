@@ -13,6 +13,11 @@
 		<datadir zip="true">https://raw.githubusercontent.com/Sandmann79/xbmc/master/packages-py3/</datadir>
     </dir>        
     <dir>
+        <info compressed="false">https://raw.githubusercontent.com/Dis90/repository.dis90/matrix/zips/addons.xml</info>
+         <checksum>https://raw.githubusercontent.com/Dis90/repository.dis90/matrix/zips/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.githubusercontent.com/Dis90/repository.dis90/matrix/zips/</datadir>
+    </dir>
+    <dir>
         <info compressed="false">https://k.slyguy.xyz/.repo/addons.xml</info>
         <checksum>https://k.slyguy.xyz/.repo/addons.xml.md5</checksum>
         <datadir zip="true">https://k.slyguy.xyz/.repo/</datadir>
