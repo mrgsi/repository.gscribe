@@ -1,7 +1,7 @@
 # repository.gscribe
 
 Download the zip direcly: 
-https://mrgsi.github.io/repository.gscribe-1.0.0.zip
+https://mrgsi.github.io/repository.gscribe-1.0.1.zip
 
 Or enter URL into your Kodi File Manager:
 https://mrgsi.github.io/
